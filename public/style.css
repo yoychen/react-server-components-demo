@@ -1,0 +1,19 @@
+html {
+  font-family: ui-sans-serif, system-ui;
+}
+
+body {
+  margin: 0;
+  font-size: 24px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
